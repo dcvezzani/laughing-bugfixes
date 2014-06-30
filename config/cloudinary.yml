@@ -1,0 +1,20 @@
+---
+development:
+  cloud_name: reliacode
+  api_key: '141458847485554'
+  api_secret: '9rBkNbmmDPPwt1kFViWB0Q4s_40'
+  enhance_image_tag: true
+  static_image_support: false
+production:
+  cloud_name: reliacode
+  api_key: '141458847485554'
+  api_secret: '9rBkNbmmDPPwt1kFViWB0Q4s_40'
+  enhance_image_tag: true
+  static_image_support: true
+test:
+  cloud_name: reliacode
+  api_key: '141458847485554'
+  api_secret: '9rBkNbmmDPPwt1kFViWB0Q4s_40'
+  enhance_image_tag: true
+  static_image_support: false
+
